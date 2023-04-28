@@ -17,3 +17,5 @@ Please note that the source code for the Augustus bot is not publicly available 
 Contact me
 
 If you have any questions or concerns about the Augustus Bot, please feel free to contact me on discord. Thanks for using the Augustus Bot!
+
+![alt text](https://github.com/SvenS7/AugustusBotPublic/blob/logo.jpg?raw=true)
