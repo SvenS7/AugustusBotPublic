@@ -8,7 +8,7 @@ The Augustus Bot is designed to help Discord server owners manage their communit
 
 How to use
 
-To add the Augustus bot to your server, please use the following invite link: [INSERT INVITE LINK HERE]. Note that the source code is not available in this repository or anywhere else. If you have any problems or questions about the bot, please contact the developer directly.
+To add the Augustus bot to your server, please use the following invite link: https://discord.com/api/oauth2/authorize?client_id=1101467703979561001&permissions=8&scope=bot%20applications.commands. Note that the source code is not available in this repository or anywhere else. If you have any problems or questions about the bot, please contact the developer directly.
 
 Disclaimer of warranty
 
